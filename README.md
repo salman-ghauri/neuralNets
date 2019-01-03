@@ -5,4 +5,11 @@ Note that I have also used Theano but version 1.0.0 (book uses 0.6). This is jus
  - Edit the file nn.py and add your own architecture
  - I have not yet added the code for augmented data. I am planning to use tensorflow or PyTorch to implement all this work.
 
+
+---------------
+**Update**
+
+I have added CNN from theano to tensorflow. I have used the name Neilson Net (I read this name somewhere) for it. I am getting 99.6% accuracy on the test dataset.
+
+------
  Feel free to share your thoughts.
